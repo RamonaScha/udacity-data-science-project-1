@@ -1,1 +1,7 @@
-# udacity-data-science-project-1
+# Udacity Ramona Schachner
+
+## Libraries used
+- punkt 1
+- punkt 2
+
+## motivation for the project
