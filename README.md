@@ -1,16 +1,14 @@
 # Udacity Ramona Schachner
 # Project 1 Data Science Blogpost
 ## Libraries used
-I use Python3.9.13. The following are the libraries I used in my Jupyter Notebook:
+I use Python 3.9.13. The following are the libraries I used in my Jupyter Notebook:
 
--numpy 
--pandas 
--matplotlib
--IPython
--seaborn
--plotly
--sklearn
--scipy 
+- numpy==1.21.5
+- pandas==1.4.4
+- matplotlib==3.5.2
+- seaborn==0.11.2
+- scikit-learn==1.0.2
+
 
 ## Data used
 Stackoverflow Developer Survey data 2017
