@@ -9,9 +9,14 @@ I use Python 3.9.13. The following are the libraries I used in my Jupyter Notebo
 - seaborn==0.11.2
 - scikit-learn==1.0.2
 
+## File description 
+2017_stackoverflow_udacity.ipynb: Notebook containing the data analysis.
+survey_results_public.csv: Stackoverflow's 2017 Annual Developer Survey Data.
+survey_results_schema.csv: Stackoverflow's 2017 Annual Survey Data Schema.
 
 ## Data used
 Stackoverflow Developer Survey data 2017
+
 ## Motivation for the project
 This project is part of the Udacity Data Scientists Nanodegree Program. As I was working with the data in the course, I found myself expecially curious about the HomeRemote question in the dataset. As in the course, we already saw it correlated with Job Satisfaction, I was curious in finding out new/other insights. 
 I will start a new remote job myself in a month from now and very excited to answer the below questions with the before Corona information of 2017. 
@@ -22,7 +27,12 @@ I will start a new remote job myself in a month from now and very excited to ans
 4) Do smaller companies offer working remotely more often?
 5) What are the determining factors in predicting if working from home is possible?
 
-## Medium Blogpost
+## Acknowledgements
+Stackoverflow survey data, taken from  https://www.kaggle.com/datasets/stackoverflow/so-survey-2017?resource=download
+Stackoverflow questions and answers, code parts taken from  https://stackoverflow.com/questions/44511636/plot-feature-importance-with-feature-names
+
+
+## Medium Blogpost and Summary of Results 
 If you are interested in the answers, you can also find the medium blogpost here https://medium.com/@ramona.schachner_74567/working-remotely-4ab37ef6b8ae
 
 
