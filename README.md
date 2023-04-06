@@ -23,6 +23,6 @@ I will start a new remote job myself in a month from now and very excited to ans
 5) What are the determining factors in predicting if working from home is possible?
 
 ## Medium Blogpost
-If you are interested in the answers, you can also find the medium blogpost here 
+If you are interested in the answers, you can also find the medium blogpost here https://medium.com/@ramona.schachner_74567/working-remotely-4ab37ef6b8ae
 
 
