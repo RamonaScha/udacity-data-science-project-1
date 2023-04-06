@@ -28,8 +28,12 @@ I will start a new remote job myself in a month from now and very excited to ans
 5) What are the determining factors in predicting if working from home is possible?
 
 ## Acknowledgements
-Stackoverflow survey data, taken from  https://www.kaggle.com/datasets/stackoverflow/so-survey-2017?resource=download
-Stackoverflow questions and answers, code parts taken from  https://stackoverflow.com/questions/44511636/plot-feature-importance-with-feature-names
+Dataset credit to:
+Stackoverflow  https://www.kaggle.com/datasets/stackoverflow/so-survey-2017?resource=download
+Licence:
+Database Contents License (DbCL) v1.0
+
+Stackoverflow questions and answers, credit to answers from  https://stackoverflow.com/questions/44511636/plot-feature-importance-with-feature-names
 
 
 ## Medium Blogpost and Summary of Results 
